@@ -13,6 +13,6 @@
 ```
 python yoast-dl.py --help
 
-python yoast-dl.py -e "your@email.com" -p "your@pass" -c 
+python yoast-dl.py --email "your@email.com" --password "your@pass" --course-url 
 "https://academy.yoast.com/courses/all-around-seo/"
 ```
