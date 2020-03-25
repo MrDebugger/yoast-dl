@@ -1,0 +1,5 @@
+slug
+requests
+tqdm
+bs4
+lxml
